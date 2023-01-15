@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennisbravos" alt="dennisbravos" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently enrolled in **CS50X 2023**
 
 - 💬 Ask me about **Javascript**
 
